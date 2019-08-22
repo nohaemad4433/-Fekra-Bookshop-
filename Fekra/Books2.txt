@@ -1,0 +1,128 @@
+﻿literature and arts	الفيل الازرق	Ahmed Mraad	2012	436	50					
+literature and arts	فرتيجو	Ahmad Morad	2007	383	30
+literature and arts	هيبتا	Muhammad sadiq	2014	300	25
+literature and arts	انا الا انت	Samar getan	2017	450	60
+literature and arts	باب الخروج	Ezzddine Shukri Fasher	2011	300	35
+literature and arts	خريف الثورة	Ahmed El Maslmany	2014	500	55
+literature and arts	جميلة	Chyngyz Aitmatov	2014	80	20
+literature and arts	حول العالم	Anuradha roy	2014	244	35
+literature and arts	بين يوم و ليلة	Tawfeek Al Hakeem	2017	232	30
+literature and arts	المنارة	José Saramago	2014	244	50
+literature and arts	حب ف خريف هائل	Samir Qusimi	2014	200	25
+literature and arts	فخور بالجنة	Hani Naqshbandi	2014	256	30
+literature and arts	When Nietzsche wept	Irvin D. Yaloml	2015	440	50
+literature and arts	Collector butterflies	john fowles	2014	223	64
+literature and arts	خريف الثورة	Ahmed El Maslmany	2014	500	55
+literature and arts	Song of Achilles	Madeline Miller	2014	400	50
+literature and arts	Pereira claims	Antonio Tabucchi	2014	150	30
+literature and arts	The Church of the Ananites	Eric-Emmanuel Schmitt	2014	160	40
+literature and arts	الافق	The Church of the Ananites	2014	152	40
+literature and arts	من البداية حتي العصر الحالي	Mostafa Maher	2010	691	70
+literature and arts	قصة القمر	Keiichiro Hirano	2014	160	36
+literature and arts	حكايات مسافر	Mustafa Mahmoud	2014	350	40
+Historical	the Talmud( The Holy Book  of the Jews)	Ahmad Ibish	2000	500	70
+Historical	قراءة تاريخ	Alberto Mangoyle	2013	300	28
+Historical	الأساطير اليونانية والرومانية	Amin Salama	2009	500	30
+Historical	تاريخ كتاب الفكر في العراق القديم	Father Suhail Qasha	2001	300	80
+Historical	اسطنبول وحضارة الخلافة الإسلامية	Bernard Lewis	1997	435	40
+Historical	الموسوعة الثقافية	Hashim Yahya Al-Mallah	2000	400	70
+Historical	الإمبراطورية العثمانية (عوامل التقدم وأسباب سقوط)	Ali Mohammed Salabi	2000	500	40
+Historical	القراءة في تاريخ العنف في الشرق الأوسط	Hamid Bouzarslan	2008	410	30
+Historical	المرأة في العصور القديمة	Ephril Cameron and Emily Kohren	2010	465	35					
+Historical	أبو جعفر المنصور (قصة وتاريخ)	Karam Melhem Karam	2016	350	70
+Historical	كتاب التراث المصري	Ayman Osman	2004	400	85
+Historical	تاريخ النموذج الثاني	Walid Fikri	1998	500	50
+Historical	الرواية السريانية للفتوحات الإسلامية	layseer Khalaf	2000	600	80					
+Historical	مصر القديمة	Naguib Mahfouz	1999	300	90
+Historical	اساطير اغريقية	Abdul Muti Sharawi	2006	500	60
+Historical	عصر ما قبل التاريخ	francois	2002	370	35
+Historical	كتاب قناة السويس	Angelo Samarco	2000	400	40					
+Historical	امرأة في برلين (ثمانية أسابيع في مدينة محتلة)	Marta Hilers	2002	500	70
+Historical	اميرات الحكم السابع	Thomas Edward Lawrence	2003	430	65
+Historical	10 ايام بين هتلر و الموت	Judge Michael Musmano	2000	380	30
+Historical	الموت الاسود	Joseph Byrne	2001	350	50
+Historical	عصرالملاحة البحرية	Dorothy Dinin Volo and saved	2004	420	45
+Historical	اليابان ف العصر ال18	Louis Perez	2010	500	60
+Historical	العالم الاسلامي ف العصور الوسطي	James Lindsey	2013	400	35
+Historical	الف اختراع و اختراع	Salim AlHassani	2011	393	50
+scientific	Ask Albert Einstein	Lynne Barasch	2005	40	20
+scientific	The Electric Life of Michael Faraday	Alan W. Hirshfeld	2006	256	40
+scientific	The Search for Infinity: Solving the Mysteries of the Universe	Gordon Fraser, Egil Lillestol, Inge Sellevag	1995	144	25
+scientific	اسرار الكون	Gordon Fraser, Egil Lillestol, Inge Sellevag	1997	154	30
+scientific	الكون	Carl Sagan	1993	178	35
+scientific	Ask Albert Einstein	Lynne Barasch	2005	40	15
+scientific	موجز تاريخ الزمان	Stephen Hawking	1998	188	35
+scientific	The Electric Life of Michael Faraday	Alan W. Hirshfeld	2006	256	30
+scientific	ثلج	Orhan Pamuk, Maureen Freely	2005	463	50
+scientific	Ask Albert Einstein	Lynne Barasch	2005	430	40
+scientific	Arthur's Computer Disaster: An Arthur Adventure	Marc Brown	1999	32	20
+scientific	Making a New Science	James Gleick	1988	352	60
+Religious	حكايات التوحيد 	Mohamed Hassan	2006	500	60
+Religious	خواطر شاب	Ahmed ELshekery	2007	169	25
+Religious	خواطر2	Ahmed ELshekery	2008	133	30
+Religious	خواطر و اماني	Elsharway	1995	220	90
+Religious	امراض الامة	Mohamed Mohamed 	2006	230	60
+Religious	يوسف الاحلام	Mahmoud ELmasry	2008	368	50
+literature and arts	كيف تصبح ثريا ف 40 يوم	Maryam Al-Dakhil	2015	350	40
+literature and arts	كيف تصبح انسانا	Sherif Arafa	2014	357	40
+Historical	التفكير العالي	foaad zake	1978	600	65
+Religious	حكايات علي طريق الدعوة	Mohamed Hasan	2006	300	40
+literature and arts	The old man and the sea	Ernest hemingway	1990	132	40
+Human Development	وصاية	Mohamed Elratyan	2012	125	25
+Human Development	الشخصية الساهرة	kareem El Shazly	2007	320	40
+Human Development	فن واصرار اتخاذ القرار	Ebraheem El Faky	2008	112	30
+Human Development	اغارف	Ahmed Helmy 	2012	152	35
+Human Development	افكار ساجرة وحياة كابرة	 kareem El Shazely 	2008	213	40
+Human Development	حياتك بين ايدك	Ahmed Magdy	2010	50	30
+Human Development	The Seven Habits Of Highly Effective People And The 8th Habit	Stephen R. Covey 	2004	540	100
+Human Development	بيكاسو واسترابكس	 Yasser Hareb	2011	175	30
+Human Development	انطاق نفسك	Sheref Arafa 	2012	192	28
+Human Development	شاى باللبن	Hadeel Abd Elsalam	2011	80	4
+Human Development	The Power Of Influence  	John C.Maxwell  	2001	160	43
+Human Development	 The Power of Your Subconscious Mind 	Joseph Murphy, Ian McMahan 	2001	304	50
+Human Development	الخيمانيه	Paulo Coelho	2010	192	30
+Human Development	العرب وجهات نظر يبانيه 	Nobuaki Notohara	2008	141	35
+Human Development	التفكير خارج الصندوق	 Mary Ghofany 	2007	270	40
+Human Development	كبوة التفكير الست	Edward De Bono	2001	274	30
+Human Development	غير حياتك فى 30 يوم	Ebraheem El Faky 	2010	183	35
+Human Development	السر	Ronda Bayron	816	80	65
+Human Development	الموهبة لا تفنى ابدا	 Gon C.Makwel	2013	530	50
+Human Development	ادارة الوقت	Ebraheem El Faky	2010	144	25
+Human Development	استفيد بحياتك	Mohamed El Areffy 	2008	480	35
+Human Development	اعرف نفسك	Ebraheem El Faky	2015	95	20
+Human Development	حياة بلا توتر	 Ibraheem El Faky 	2009	156	36
+Human Development	سيطر على حياتك	 Ibraheem El Faky 	2008	111	30
+Human Development	لا تحزن	A'aidh Al Karani	2003	584	60
+Human Development	حلل صدقتك بنفسك	Ibraheem El Faky 	2010	96	25
+political	Art of War	Nicola Mikafili	1970	700	45
+political	Democracy Model	David Hilde	1990	850	50
+political	الثوره	Nabil Farouk	2007	900	40
+political	الغباء السياسي	Muhammed Tawfek	2001	650	30
+political	سقوط الغضب	Muahmmed Hasanayn Haykel	2005	720	50
+political	Politics Spirit	Gustav Le Bon	2000	800	40
+political	سقوط الشمال	Mustafa Mahmoud	1750	900	30
+political	Warrior Time	Robert Weiss	1890	960	50
+political	الراي الاخر	 Abdullah al-Nafis	2006	500	70
+political	Strategic Depth	Amed Oglu	1660	870	30
+political	جدران الصمت	Walid Maged	2001	590	85
+political	Revolution Anatomy	Crane Prenton	1998	450	90
+political	القمع القمعي 	Basma AbdalAziz	2007	400	80
+political	Public Book	Antonio Negri	1660	950	50
+political	Zodiac Signs	Lawrence Wright	2003	800	100
+political	People's Law	Jhon Rolles	2001	750	90
+political	Return to Zero	Stephen Kenzer	2001	660	60
+political	Arab Voices	James	2003	670	30
+political	Think Centers	Martin Ruyo	2009	232	50
+political	What Happened	Scott McClellan	2010	456	90
+political	Kidnapping Disaster	Jeremy Erp	2007	468	100
+political	Chance	Richard N.Has	2007	277	120
+political	Suicide of the West 	Chris Smith	2009	326	90Religious	الكنز المفقود	Mostafa Hosny	2009	296	50
+Religious	احداث النهايه	Mohamed Hasan	2015	240	35
+Religious	حقيقه التوحيد	Mohamed Hasan	2006	500	64
+Religious	خواطر على طريق الدعوه	Mohamed Hasan 	2006	300	70
+Religious	خواطر شاب	Ahmed ELshekery	2007	196	25
+Religious	خواطر3	Ahmed ELshekery	2008	133	45
+Religious	خواطر ايمانيه	Elsharway	1995	220	50
+Religious	امراض الامه	Mohamed Hassan	2006	230	60
+Religious	الكنز المفقود	Mostafa Hosny	2017	319	40
+literature and arts	طه الغريب	Mohamed Sadq	2014	215	20

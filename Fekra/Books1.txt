@@ -1,0 +1,125 @@
+ Category      Book Name      Auther      Date      Pagenumbers      Price      NumberOfCopies
+
+ Religious	hkekat Eltohead	Mohamed Hassan      2006      500      64      2	
+ Religious	khawter ala tareak el daoua      Mohamed Hasan      2006      300      70      2
+ Religious	khwater Shap      Ahmed ELshekery      2007      196      25      3	
+ Religious	khwater2      Ahmed ELshekery      2008      133      30      2
+ 
+Religious      khwater emanya      Elsharway      1995      220      50      4
+Religious      Amrad ELoma      Mohamed Hassan      2006      230      60      5
+Religious      Yousef ELahlam      Mahmoud ELmasry      2008      368      70      1
+political      genocide      Martin Shaw      1980      600      40      2    
+ political      Art of war      Nicola Mikafili      1970      700      45      1
+ political      Democracy Model      David Hilde      1990      850      50      2
+ political      alswora      nabil farouk      2007      900      40      3  
+ political      Arab voices      James      2003      670      30      2
+ political      al ghba alsysee      mohammed Tawek      2001      650      30      2
+ political      Fall of anger      Mohamed Heikal      2005      720      50      1
+ political      politics spirit      Gustav Le Bon      2000      800      40      3
+ political      Left fall      Mostafa Mahmoud      1750      900      30      2
+ political      warrior time      Robert Weiss      1890      960      50      3
+ political      al ray alakher      Abdullah al-Nafis      2006      500      70         2 
+ political      Strategic depth      Amed Oglu      1660      870      30      1
+ political      silenece walls      Walid Maged      2001      590      85      2
+ political      revolution Anatomy      Crane Prenton      1998      450      90      2
+ political      oppression oppression      Basma abdalaziz      2007      400      80      1
+ political      Public Book      Antonio Negri      1660      950      50      3
+ political      Zodiac signs      Lawrence Wright      2003      800      100      4
+ political      People's Law      John Rolls      1950      720      65      2      
+ political      Return to zero      Stephen Kenzer      2001      660      60      3     
+Human Development      wasaya      mohamed elratyan      2012      125      25      2
+Human Development      el shakhsya el sahra      kareem el shazly      2007      320      40      1
+Human Development      fan w asrar etghas el karar      ebraheem el faky      2008      112      30      3
+Human Development      28harf      ahmed helmy      2012      152      35      1
+Human Development      afkar saghera l hayat kebara      kareem el shazely      2008      213      40      4     
+Human Development      hayatak ben edek      ahmed magdy      2010      50      30      1
+Human Development      The Seven Habits Of Highly Effective People And The 8th Habit      stephen r. covey      2004      540      100      4
+Human Development      bekasso w starbex      yasser hareb      2011      175      30      3
+Human Development      an takon nafsek      sheref arafa      2012      192      28      2
+Human Development      shay b laban      hadeel abd elsalam      2011      80      4
+Human Development      The Power Of Influence      john c.maxwell      2001      160      43      1
+Human Development      The Power of Your Subconscious Mind      Joseph Murphy, Ian McMahan      2001      304      50      3
+Human Development      el khemyany      Paulo Coelho      2010      192      30      2
+Human Development      al arab weghet nazar yabanya      Nobuaki Notohara      2008      141      35      1
+Human Development      el tafker ghareg el sandok      mary ghofany      2007      270      40      4
+Human Development      kopaat eltafker el set      Edward de Bono      2001      274      30      2
+Human Development      ghayar hayatak f 30 youm      ebraheem el faky      2010      183      35      2 
+Human Development      el ser      ronda bayron      2006      816      80      3
+Human Development      el mawheppa la takfy abdan      gon c.makwel      2013      530      50      1
+Human Development      edarat el wakt      ebraheem el faky      2010      144      25      1
+Human Development      estamtea b hayatak      mohamed el areffy      2008      480      35      3      
+Human Development      earaf nafsak      ebraheem el faky      2015      95      20      1
+Human Development      hayat bla tawator      ibraheem el faky      2009      156      36      2 
+Human Development      saytar ala hayatak      ibraheem el faky      2008      111      30      5
+Human Development      la tahzan      A'aidh Al Karani      2003      584      60      3
+Human Development      hallel shagsayatak b nafsak      ibraheem el faky      2010      96      25      1 
+
+scientific      Making a New Science      James Gleick      1988      352      60      1
+scientific      Arthur's Computer Disaster: An Arthur Adventure      Marc Brown      1999      32      20      4
+scientific      Ask Albert Einstein      Lynne Barasch      2005      430      40      1
+scientific      snow      Orhan Pamuk, Maureen Freely      2005      463      50      3
+scientific      The Electric Life of Michael Faraday      Alan W. Hirshfeld      2006      256      30      4
+scientific      The Search for Infinity: Solving the Mysteries of the Universe      Gordon Fraser, Egil Lillestol, Inge Sellevag      1995      144      50      3
+scientific      mogaz tarekh el zaman      Stephen Hawking      1998      188      35      1
+scientific      Ask Albert Einstein      Lynne Barasch      2005      40      20      3
+scientific      elkon      Carl Sagan      1993      178      35      2
+scientific      hal asrar elkon      Gordon Fraser, Egil Lillestol, Inge Sellevag      1997      154      30      4
+scientific      The Search for Infinity: Solving the Mysteries of the Universe      Gordon Fraser, Egil Lillestol, Inge Sellevag      1995      144      25      1
+scientific      The Electric Life of Michael Faraday      Alan W. Hirshfeld      2006      256      39      2
+scientific      Ask Albert Einstein      Lynne Barasch      2005      40      20      4
+scientific      eltaregh el akser egazaa lel zaman      2007      168      40      1
+Scientific      eltafkir el alme      foaad zake      1978      600      60      2
+Historical      alf akhtraa wa akhtraa      Salim AlHassani      2011      393       50      2                
+Historical      el alam el eslame fe elosor el wosta      James Lindsey      2013      400      35      1
+Historical      Japan in the 18th Century      Louis Perez      2010      500      60      2
+Historical      asr el melaha el baharya      Dorothy Dinin Volo and saved      2004      420      45      2               
+Historical      el mot el aswad      Joseph Byrne      2001      350      50      4                
+Historical      Ten Days Between Hitler and Death      Judge Michael Musmano      2000      380      30      3
+Historical      aamedat el hkma el 7      Thomas Edward Lawrence      2003      430      65      2
+Historical      a woman in Berlin (eight weeks in an occupied city)      Marta Hilers      2002      500      70    
+Historical      elmalk elnamrod awal gaparat elard      Mansour Abdul Hakim      2009      35      30          
+Historical      Suez Canal Book (History and Problems)       Angelo Samarco      2000          400           40             2
+Historical      asor ma kapl el tarekh(potkt elansan)      François      2002      370      35      1
+Historical      asater egrekia      Abdul Muti Sharawi      2006      500      100      3 
+Historical      Ancient Egypt      Naguib Mahfouz      1999      300      90      1           
+Historical      the Syriac novel of Islamic conquests      layseer Khalaf      2000      600      80      2
+Historical      The History of a second form       Walid Fikri    1998          500           50            3
+Historical      Egyptian Heritage Book      Ayman Osman      2004      400      85      2
+Historical      Abu Jaafar Al - Mansour(Story and History)      Karam Melhem Karam      2016      350      70      4      
+Historical      Women in Antiquity      Ephril Cameron and Emily Kohren      2010      465      35      1
+Historical      reading in the history of violence in the middle east      Hamid Bouzarslan      2008      410      30      3     
+Historical      the Ottoman Empire (factors of the  advancement and causes of the fall)      Ali Mohammed Salabi      2000      500      40      2
+Historical      Istanbul and the Civilization of the Islamic caliphate      Bernard Lewis      1997      435      39      1
+Historical      Book history of thought in Iraq old      Father Suhail Qasha      2001      300      80      2
+Historical      Mosul Cultural Encyclopedia      Hashim Yahya Al-Mallah      200      400      70      5
+Historical      Greek and Roman Myths      Amin Salama      2009      500      30      3
+Historical      reading history      Alberto Mangoyle      2013      300      28      2
+Historical      the Talmud( The Holy Book  of the Jews)      Ahmad Ibish      2000      500      100      1
+literature and arts      The novel of the fortress of dus      Ahmed Abd Allati      2017      260      20      2
+literature and arts      elfel elazrak      Ahmad Morad      2012      436      50      1
+literature and arts      Vertigo      Ahmad Morad      2007      383      30      1
+literature and arts      HEPta        Muhammad sadiq      2014      300      25      4
+literature and arts      hekayat mesafer      Mustafa Mahmoud      2014      350      40      2   
+literature and arts      ben youm we lela      Tawfeek Al Hakeem      2017      232      30      3
+literature and arts      bab el ghorog      Ezzeddine Shukri Fasher      2011     300      35      2       
+literature and arts      kayfa tospeh ensan      Sherif Arafa      2014      357      30      1      
+literature and arts      kayfa tospeh mashor f 40 youm      Maryam Al-Dakhil      2015      350      40      4
+literature and arts      hop f gharef hael      Samir Qusimi      2014      200      25      1    
+literature and arts      Craving      Prince Taj AlSar      2013      208      30      3
+literature and arts      fashor belgana      Hani Naqshbandi      2014      256      25      1
+literature and arts      When Nietzsche wept      Irvin D. Yaloml      2015      440      50      4
+literature and arts      Collector butterflies      john fowles      2015      423      45      3
+literature and arts      Prayer for the Lost      Jennifer Clement      2015      287      20      2
+literature and arts      Damn Dostoevsky      Atiq Rahimi      2015      240      20      1 
+literature and arts      The invention of Morel      Adolfo bioy casares      2014      112      22      3
+literature and arts      Folded ground      Anuradha roy      2014      244      30      2
+literature and arts      Song of Achilles      Madeline Miller      2014      400      50      2
+literature and arts      Pereira claims      Antonio Tabucchi       2014      150      30      4
+literature and arts      Beautiful      Chyngyz Aitmatov      2014      80      10      3 
+literature and arts      The story of moon      Keiichiro Hirano      2014      160      26      4
+literature and arts      The Church of the Ananites      Eric-Emmanuel Schmitt      2014      160      30      1  
+literature and arts      Horizon      Patrick Modiano      2014       152      40      1       
+literature and arts      The Lighthouse      José Saramago      2014      444      60      3
+literature and arts      the old man and the sea     ernest hemingway      1990      132      25      3
+Human Development	nds	fodm	2015	2015	10
+scientific	name	fdsinof	5014	150	50

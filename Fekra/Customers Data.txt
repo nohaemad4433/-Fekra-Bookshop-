@@ -1,0 +1,7 @@
+﻿Buyer's name	Book Name	Price 	Date Of sell
+Wael Mohamed	امراض الامه	230	2017 ,أغسطس 23
+mohamed sayed	خواطر2	30	2017 ,أغسطس 23
+noha	الشخصية الساهرة	40	2017 ,أغسطس 24
+Nada Mohamed	الكنز المفقود	40	2017 ,أغسطس 24
+Aya AbdElmonem	امراض الامه	60	2017 ,أغسطس 24
+Omnia Fahim	الكنز المفقود	40	2017 ,أغسطس 27
